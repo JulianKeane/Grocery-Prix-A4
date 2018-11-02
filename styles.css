@@ -1,0 +1,13 @@
+.box {
+    width: 75px;
+    height: 50px;
+    border: 2px solid black;
+    background-color: grey;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 30px;
+
+}
